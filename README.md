@@ -12,8 +12,6 @@
 
 ## System Design
 
-![alt text](<admin panel system design (unified mentor).png>)
-
 ### User
 
 - Category Wise Details
